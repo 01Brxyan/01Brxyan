@@ -15,6 +15,7 @@ Me gusta ser **creativo**, mantener la **disciplina** y siempre busco aprender a
 ### 🧠 Habilidades y Tecnologías
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,github,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,github,git,vscode" />
 </p>
 
 - 🔹 **HTML, CSS y JavaScript** para el desarrollo web  
