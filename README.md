@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Brayan Sneheyder Castro Velandia
+# 👋 ¡Hola! Soy Brayan Snehyder Castro Velandia
 
 💻 Desarrollador web en formación | 🚀 Creativo, disciplinado y en constante mejora
 
